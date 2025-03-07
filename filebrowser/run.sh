@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BOLD='\033[[0;1m'
+BOLD='\033[0;1m'
 
 printf "$${BOLD}Installing filebrowser \n\n"
 
